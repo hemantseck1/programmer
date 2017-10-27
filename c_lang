@@ -1,9 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int ,b,c;
-printf("ENTER 2 NUMBER FOR SUM");
+int a,b,c,d;
+printf("ENTER 2 NUMBER FOR SUM AND SUBTRACTION");
 scanf("%d%d",&a,&b);
 c=a+b;
 printf("sum =%d",c);
+d=a-b;
+printf("subtraction=%d",d);
 }
+
