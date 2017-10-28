@@ -10,8 +10,13 @@ d=a-b;
 printf("subtraction=%d",d);
 e=a*b;
 printf("multiplying=%d",e);
+
+
+e=a*b;
+printf("multiplying=%d",e);
 f=a/b;
 printf("division=%d",f);
+
 
 }
 
