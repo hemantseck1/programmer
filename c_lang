@@ -8,8 +8,10 @@ c=a+b;
 printf("sum =%d",c);
 d=a-b;
 printf("subtraction=%d",d);
-printf("multiplying=%d",d);
-printf("division=%d",d);
-1234
+e=a*b;
+printf("multiplying=%d",e);
+f=a/b;
+printf("division=%d",f);
+
 }
 
