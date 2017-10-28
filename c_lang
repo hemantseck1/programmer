@@ -7,9 +7,10 @@ scanf("%d%d",&a,&b);
 c=a+b;
 printf("sum =%d",c);
 d=a-b;
+e=a*b;
 printf("subtraction=%d",d);
-printf("multiplying=%d",d);
+printf("multiplying=%d",e);
 printf("division=%d",d);
-1234
+
 }
 
